@@ -9,7 +9,7 @@ from spark_files.trusted_to_refined import TrustedToRefined
 
 default_args = {
     'owner': 'Airflow',
-    'email': ['comerciall.jeferson@gmail.com'],
+    'email': ['teste.jeferson@teste.com'],
     'email_on_failure' : False,
     'retries': 0
 }
